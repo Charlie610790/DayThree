@@ -146,6 +146,71 @@ h4 {
 	margin: 0px auto;
 	height: 450px;
 }
+.footer1{
+float: right;
+background-image: url("images/bar.jpg");
+width: 25%;
+height: 330px;
+}
+.footer1text {
+width: 325px;
+font-family: Oswald;
+font-size: 30px;
+margin-top: 275px;
+padding-left: 15px;
+text-align: left;
+color: #083452;
+}
+.footer2 {
+float: right;
+background-image: url("images/zac.jpg");
+width: 25%;
+height: 330px;
+}
+.footer2text {
+width: 325px;
+font-family: Oswald;
+font-size: 30px;
+margin-top: 230px;
+padding-left: 15px;
+text-align: left;
+color: #083452;
+}
+.footer3 {
+float: right;
+background-image: url("images/beer.jpg");
+width: 25%;
+height: 330px;
+}
+.footer3text {
+width: 325px;
+font-family: Oswald;
+font-size: 30px;
+margin-top: 275px;
+padding-left: 15px;
+text-align: left;
+color: white;
+}
+.footer4 {
+float: right;
+background-image: url("images/surfer.jpg");
+width: 25%;
+height: 330px;
+}
+.footer4text {
+width: 325px;
+font-family: Oswald;
+font-size: 30px;
+margin-top: 275px;
+padding-left: 15px;
+text-align: left;
+color: #083452;	
+}
+
+
+
+
+
 .bottomfooter {
 	background-color: #083452;
 	margin: 0px auto;
