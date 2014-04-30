@@ -94,8 +94,8 @@ h4 {
 }
 .sidebarsection {
 	color: #819FF7;
-	font-family: Asap;
-	font-size: 20px;
+	font-family: Oswald;
+	font-size: 18px;
 	text-align: left;
 }
 .sidebarinfo {
@@ -116,10 +116,15 @@ h4 {
 	display: inline-block;
 }
 .aboutthisad {
-	font-size: 12px;
+	font-size: 14px;
 	color: #A4A4A4;
 	text-align: right;
 	margin-bottom: 50px;
+}
+.paddle {
+	margin-bottom: 8px;
+	width: 300px;
+	height: 300px;	
 }
 .woah {
 	font-size: 25px;
