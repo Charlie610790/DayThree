@@ -150,6 +150,7 @@ h4 {
 .footer1{
 float: right;
 background-image: url("images/bar.jpg");
+background-size:cover;
 width: 25%;
 height: 330px;
 }
@@ -165,6 +166,7 @@ color: #083452;
 .footer2 {
 float: right;
 background-image: url("images/zac.jpg");
+background-size:cover;
 width: 25%;
 height: 330px;
 }
@@ -180,6 +182,7 @@ color: #083452;
 .footer3 {
 float: right;
 background-image: url("images/beer.jpg");
+background-size:cover;
 width: 25%;
 height: 330px;
 }
@@ -195,6 +198,7 @@ color: white;
 .footer4 {
 float: right;
 background-image: url("images/surfer.jpg");
+background-size:cover;
 width: 25%;
 height: 330px;
 }
