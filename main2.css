@@ -1,0 +1,237 @@
+body {
+	margin: 0px;
+    padding: 0px;
+}
+
+h3 {
+	font-family: Oswald;
+	font-size: 55px;
+	margin-bottom: 10px;
+	color: #083452;
+}
+
+h1 {
+	margin-top: 160px;
+	font-family: Oswald;
+	font-size: 85px;
+	text-align: center;
+	color: white;
+	text-shadow: 2px 2px #083452;
+}
+
+h2 {
+	font-family: Asap;
+	font-size: 15px;
+	text-align: center;
+	color: black;
+	margin-top: -75px;
+}
+
+h4 {
+	font-family: Oswald;
+	font-size: 65px;
+	margin-bottom: 30px;
+	margin-top: -120px;
+	text-align: center;
+	color: #083452;
+}
+
+.header {
+	background-image: url("images/waves.jpg");
+	margin: 0px auto;
+	font-size: 18px;
+	height:525px;
+	
+}
+
+.logo {
+	float: left;
+	padding-left: 150px;
+	font font-size: 18px;
+	font-family: Asap;
+	padding-top: 20px;
+	border-color: red;
+	border: 5px;
+}
+
+.aboutsearch {
+	display: inline-block;
+	float: right;
+	padding-right: 130px;
+	font font-size: 18px;
+	font-family: Asap;
+	padding-top: 20px;
+	border: 5px;
+	border-color: red;
+}
+
+.main-container {
+	width: 1180px;
+	margin: 0 auto;
+}
+
+.leftbar {
+	display: inline-block;
+	padding-left: 150px;
+	font-family: Asap;
+	width: 550px;
+	padding-bottom: 150px;
+}
+
+.userpicsmall{
+	font-size: 15px;
+	display: inline-block;
+	height: 50px;
+	margin-top: -150px;
+}
+
+.userinfo{
+	font-size: 15px;
+	margin: 0px auto;
+	font-family: Asap;
+	display: inline-block;
+	height: 50px;
+}
+
+.sidebarlink{
+	padding-bottom: 40px;
+	font-family: Asap;
+	font-size: 14px;
+}
+
+.sidebarsection {
+	color: #819FF7;
+	font-family: Asap;
+	font font-size: 20px;
+	text-align: left;
+}
+
+.sidebarinfo {
+	color: #A4A4A4;
+	font-family: Asap;
+	font font-size: 18px;
+	text-align: left;
+	width: 278px;
+}
+
+.rightbar {
+	display: inline-block;
+	text-align: center;
+	border: 1px;
+	font-family: Asap;
+	padding-right: 150px;
+	padding-left: 20px;
+	padding-top: 75px;
+	display: inline-block;
+}
+
+.aboutthisad {
+	font-size: 12px;
+	color: #A4A4A4;
+	text-align: right;
+	margin-bottom: 50px;
+}
+
+.woah {
+	font-size: 25px;
+	color: #106db3;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.footer-container {
+	width: 1400px;
+	margin: 0px auto;
+}
+.footer1 {
+	background-image: url("images/surfer.jpg");
+	width: 325px;
+	text-align: center;
+	height: 330px;
+	display: inline-block;
+	white-space: nowrap;
+	
+}
+.footer1image {
+	width: 325px;
+	font-family: Oswald;
+	font-size: 30px;
+	margin-top: 275px;
+	padding-left: 15px;
+	text-align: left;
+	color: #083452;
+
+}
+.footer2 {
+	background-image: url("images/beer.jpg");
+	width: 325px;
+	height: 330px;
+	display: inline-block;
+	white-space: nowrap;
+	
+}
+.footer2image {
+	width: 325px;
+	font-family: Oswald;
+	font-size: 30px;
+	margin-top: 275px;
+	padding-left: 15px;
+	text-align: left;
+	color: white;
+
+}
+.footer3 {
+	background-image: url("images/zac.jpg");
+	width: 325px;
+	height: 330px;
+	display: inline-block;
+	
+}
+.footer3image {
+	width: 325px;
+	font-family: Oswald;
+	font-size: 30px;
+	margin-top: 230px;
+	padding-left: 15px;
+	text-align: left;
+	color: #083452;
+}
+.footer4 {
+	background-image: url("images/bar.jpg");
+	width: 325px;
+	height: 330px;
+	display: inline-block;
+	
+}
+.footer4image {
+	width: 330px;
+	font-family: Oswald;
+	font-size: 30px;
+	margin-top: 275px;
+	padding-left: 15px;
+	text-align: left;
+	color: #083452;
+}
+.bottomfooter {
+	background-color: #083452;
+	margin: 0px auto;
+	font-size: 13px;
+	height:100px;
+}
+.bottomleft {
+	float: left;
+	padding-left: 150px;
+	font font-size: 13px;
+	font-family: Asap;
+	padding-top: 40px;
+	color: #a3b3bf;
+	
+}
+.bottomright {
+	float: right;
+	padding-right: 150px;
+	font font-size: 13px;
+	font-family: Asap;
+	padding-top: 40px;
+}
+
