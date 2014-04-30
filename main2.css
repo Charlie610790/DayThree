@@ -5,9 +5,10 @@ body {
 
 h3 {
 	font-family: Oswald;
-	font-size: 55px;
+	font-size: 61px;
 	margin-bottom: 10px;
 	color: #083452;
+	line-height: 70px;
 }
 
 h1 {
@@ -66,7 +67,7 @@ h4 {
 }
 
 .main-container {
-	width: 1180px;
+	width: 1380px;
 	margin: 0 auto;
 }
 
@@ -74,7 +75,7 @@ h4 {
 	display: inline-block;
 	padding-left: 150px;
 	font-family: Asap;
-	width: 550px;
+	width: 590px;
 	padding-bottom: 150px;
 }
 
