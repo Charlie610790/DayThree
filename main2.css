@@ -138,79 +138,13 @@ h4 {
 	margin-top: 30px;
 	margin-bottom: 30px;
 }
-
-.footer-container {
-	width: 1400px;
+.footer {
 	margin: 0px auto;
 }
-.footer1 {
-	background-image: url("images/surfer.jpg");
-	width: 325px;
-	text-align: center;
-	height: 330px;
-	display: inline-block;
-	white-space: nowrap;
-	
-}
-.footer1image {
-	width: 325px;
-	font-family: Oswald;
-	font-size: 30px;
-	margin-top: 275px;
-	padding-left: 15px;
-	text-align: left;
-	color: #083452;
 
-}
-.footer2 {
-	background-image: url("images/beer.jpg");
-	width: 325px;
-	height: 330px;
-	display: inline-block;
-	white-space: nowrap;
-	
-}
-.footer2image {
-	width: 325px;
-	font-family: Oswald;
-	font-size: 30px;
-	margin-top: 275px;
-	padding-left: 15px;
-	text-align: left;
-	color: white;
-
-}
-.footer3 {
-	background-image: url("images/zac.jpg");
-	width: 325px;
-	height: 330px;
-	display: inline-block;
-	
-}
-.footer3image {
-	width: 325px;
-	font-family: Oswald;
-	font-size: 30px;
-	margin-top: 230px;
-	padding-left: 15px;
-	text-align: left;
-	color: #083452;
-}
-.footer4 {
-	background-image: url("images/bar.jpg");
-	width: 325px;
-	height: 330px;
-	display: inline-block;
-	
-}
-.footer4image {
-	width: 330px;
-	font-family: Oswald;
-	font-size: 30px;
-	margin-top: 275px;
-	padding-left: 15px;
-	text-align: left;
-	color: #083452;
+.footer-container {
+	margin: 0px auto;
+	height: 450px;
 }
 .bottomfooter {
 	background-color: #083452;
@@ -221,7 +155,7 @@ h4 {
 .bottomleft {
 	float: left;
 	padding-left: 150px;
-	font font-size: 13px;
+	font-size: 14px;
 	font-family: Asap;
 	padding-top: 40px;
 	color: #a3b3bf;
@@ -230,7 +164,7 @@ h4 {
 .bottomright {
 	float: right;
 	padding-right: 150px;
-	font font-size: 13px;
+	font-size: 14px;
 	font-family: Asap;
 	padding-top: 40px;
 }
