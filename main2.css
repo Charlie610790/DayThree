@@ -98,8 +98,12 @@ h4 {
 	padding-bottom: 40px;
 	font-family: Asap;
 	font-size: 14px;
+	color: #cbd4db;
 }
-
+.sidebarname {
+	font-size: 18px;
+	padding-bottom: 2px;
+}
 .sidebarsection {
 	color: #819FF7;
 	font-family: Asap;
