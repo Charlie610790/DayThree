@@ -96,6 +96,18 @@ h4 {
 	display: inline-block;
 	height: 50px;
 }
+.buttons {
+	display: inline-block;
+}
+.button1 {
+	background-image: url("images/readcomments.jpg");
+}
+.button2 {
+	background-image: url("images/readlater.jpg");
+}
+.button3 {
+	background-image: url("images/sharethispost.jpg");
+}
 .sidebarlink{
 	padding-bottom: 40px;
 	font-family: Asap;
