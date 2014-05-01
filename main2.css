@@ -10,11 +10,12 @@ h3 {
 	line-height: 70px;
 }
 h1 {
-	margin-top: 160px;
+	margin-top: 180px;
 	font-family: Oswald;
 	font-size: 85px;
 	text-align: center;
 	color: white;
+	letter-spacing: 15px;
 	text-shadow: 2px 2px #083452;
 }
 h2 {
@@ -22,7 +23,7 @@ h2 {
 	font-size: 15px;
 	text-align: center;
 	color: black;
-	margin-top: -75px;
+	margin-top: -68px;
 }
 h4 {
 	font-family: Oswald;
@@ -240,6 +241,7 @@ h4 {
 }
 .bottomright {
 	float: right;
+	color: #a3b3bf;
 	padding-right: 150px;
 	font-size: 14px;
 	font-family: Asap;
