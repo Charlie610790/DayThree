@@ -88,15 +88,16 @@ h4 {
 .userpicsmall{
 	font-size: 15px;
 	display: inline-block;
-	height: 50px;
-	margin-top: -150px;
+	height: 45px;
+	margin-top: -5px;
 	margin-bottom: 1px;
 }
 .userinfosmall{
-	font-size: 15px;
+	font-size: 13px;
 	display: inline-block;
 	height: 50px;
-	margin-top: -150px;
+	margin-top: 0px;
+	margin-left: 2px;
 	margin-bottom: 1px;
 }
 .userinfo{
