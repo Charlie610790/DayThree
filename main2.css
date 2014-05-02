@@ -219,14 +219,14 @@ h4 {
 }
 .footer1{
 	float: right;
-	background-image: url("images/bar.jpg");
+	background-image: url("images/bar-hover.jpg");
 	background-size:cover;
 	width: 25%;
 	height: 330px;
 }
 .footer1:hover{
 	float: right;
-	background-image: url("images/bar-hover.jpg");
+	background-image: url("images/bar.jpg");
 	background-size:cover;
 	width: 25%;
 	height: 330px;
@@ -242,14 +242,14 @@ h4 {
 }
 .footer2 {
 	float: right;
-	background-image: url("images/zac.jpg");
+	background-image: url("images/zac-hover.jpg");
 	background-size:cover;
 	width: 25%;
 	height: 330px;
 }
 .footer2:hover {
 	float: right;
-	background-image: url("images/zac-hover.jpg");
+	background-image: url("images/zac.jpg");
 	background-size:cover;
 	width: 25%;
 	height: 330px;
@@ -265,14 +265,14 @@ h4 {
 }
 .footer3 {
 	float: right;
-	background-image: url("images/beer.jpg");
+	background-image: url("images/beer-hover.jpg");
 	background-size:cover;
 	width: 25%;
 	height: 330px;
 }
 .footer3:hover {
 	float: right;
-	background-image: url("images/beer-hover.jpg");
+	background-image: url("images/beer.jpg");
 	background-size:cover;
 	width: 25%;
 	height: 330px;
@@ -284,18 +284,18 @@ h4 {
 	margin-top: 275px;
 	padding-left: 15px;
 	text-align: left;
-	color: white;
+	color: #083452;
 }
 .footer4 {
 	float: right;
-	background-image: url("images/surfer.jpg");
+	background-image: url("images/surfer-hover.jpg");
 	background-size:cover;
 	width: 25%;
 	height: 330px;
 }
 .footer4:hover {
 	float: right;
-	background-image: url("images/surfer-hover.jpg");
+	background-image: url("images/surfer.jpg");
 	background-size:cover;
 	width: 25%;
 	height: 330px;
