@@ -214,6 +214,13 @@ h4 {
 	width: 25%;
 	height: 330px;
 }
+.footer1:hover{
+	float: right;
+	background-image: url("images/bar-hover.jpg");
+	background-size:cover;
+	width: 25%;
+	height: 330px;
+}
 .footer1text {
 	width: 325px;
 	font-family: Oswald;
@@ -230,6 +237,13 @@ h4 {
 	width: 25%;
 	height: 330px;
 }
+.footer2:hover {
+	float: right;
+	background-image: url("images/zac-hover.jpg");
+	background-size:cover;
+	width: 25%;
+	height: 330px;
+}
 .footer2text {
 	width: 325px;
 	font-family: Oswald;
@@ -242,6 +256,13 @@ h4 {
 .footer3 {
 	float: right;
 	background-image: url("images/beer.jpg");
+	background-size:cover;
+	width: 25%;
+	height: 330px;
+}
+.footer3:hover {
+	float: right;
+	background-image: url("images/beer-hover.jpg");
 	background-size:cover;
 	width: 25%;
 	height: 330px;
