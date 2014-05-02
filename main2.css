@@ -262,6 +262,14 @@ h4 {
 	width: 25%;
 	height: 330px;
 }
+.footer4:hover {
+	float: right;
+	background-image: url("images/surfer-hover.jpg");
+	background-size:cover;
+	width: 25%;
+	height: 330px;
+	
+}
 .footer4text {
 	width: 325px;
 	font-family: Oswald;
